@@ -1,0 +1,7 @@
+build
+dist
+main.build
+main.dist
+main.onefile-build
+main.spec
+main.exe
