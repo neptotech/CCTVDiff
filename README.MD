@@ -1,6 +1,8 @@
 # CCTVDiff
 Detect and visualize motion in CCTV footage with movement detection with visualization, interactive heatmaps, and more.
 
+![](sample.png)
+
 ---
 
 This is a very powerful tool that comes with many cctv cameras. This project is mainly used for two major purpose:
