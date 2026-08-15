@@ -2,7 +2,8 @@
 Detect and visualize motion in CCTV footage with movement detection with visualization, interactive heatmaps, and more.
 
 ![](sample.png)
-<video controls src="final.mp4" title="Title"></video>
+
+[![alt text](final.gif)](final.mp4)
 ---
 
 This is a very powerful tool that comes with many cctv cameras. This project is mainly used for two major purpose:
