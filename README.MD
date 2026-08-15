@@ -13,7 +13,7 @@ This is a very powerful tool that comes with many cctv cameras. This project is 
 **Flashback:** I developed it for fun in order to catch the hiding place of a rat in my house(This actually helped and then we put glue pads, adhesives etc to cover up/catch it). The software itself is meant to be used on stable colour camera footage with enough lighting because we arent using IR camera(I took videos by having tubelights on in kitchen the whole night).
 
 ### Download 
-See releases for exe
+See [releases](https://github.com/neptotech/CCTVDiff/releases/tag/1.0.0) to get ***portable standalone exe***.
 
 ---
 
